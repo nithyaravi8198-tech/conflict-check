@@ -1,1 +1,1 @@
-my second conflict file
+my file to conflict check
